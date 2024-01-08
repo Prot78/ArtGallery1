@@ -1,0 +1,15 @@
+Numero di libri trovati =  2 
+ (Autore - Titolo - Numero di copie disponibili) 
+
+GEMMA TOWNLEY
+Un incidente chiamato amore
+3
+ 
+SUSANA FORTES
+IL CAMMINO DEL PENITENTE
+1
+ 
+
+
+Numero di libri con titolo unico nel database = 41 
+
